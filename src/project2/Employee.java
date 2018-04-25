@@ -9,6 +9,7 @@ package project2;
  *
  * @author OhemaaAfriyie
  */
+//Hello Ohemaa!!!
 public class Employee {
     public int id;
     public String name;
